@@ -19,14 +19,17 @@
     
     height:auto;
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
     place-items: center;
 }
 .product{
     border-radius: 15px;
-    width:250px;
-    height:300px;
-    margin:100px;
+    width:150px;
+    height:250px;
+    margin-bottom:100px;
+    margin-left: 100px;
+    margin-right:110px;
+    margin-top:150px;
     display:flex;
     flex-direction: column;
     justify-content: center;
